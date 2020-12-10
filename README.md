@@ -7,3 +7,5 @@ This is my first repository on GitHub, it was created while learning [C#-develop
 * learn how to use GitHub
 
 **remember - u can anything**
+###Попытка номер 6. На винде 
+ура получилось
