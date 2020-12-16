@@ -10,3 +10,6 @@ This is my first repository on GitHub, it was created while learning [C#-develop
 ###After six attempts i did it!
 
 Yes, finally i did it. But, i don't know how make it work on MacOS, still
+
+
+tryin out what will be before and after merging
